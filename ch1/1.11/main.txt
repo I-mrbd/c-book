@@ -1,0 +1,2 @@
+one of the bugs the program could encounter is a long text exceeding the maximum value an integer could hold.
+backspaces will falsify the different count values.
